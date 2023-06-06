@@ -1,0 +1,32 @@
+{
+  "Title": "Cool Icons",
+  "Type": "library",
+  "Org": "mbk",
+  "Ident": "cool_icons",
+  "Tags": null,
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "Resources": null,
+  "MenuResources": null,
+  "HasCode": true,
+  "CodePath": ".",
+  "PackageReferences": [],
+  "EditorReferences": null,
+  "Metadata": {
+    "ProjectTemplate": null,
+    "CsProjName": "",
+    "Compiler": {
+      "RootNamespace": "CoolIcons",
+      "DefineConstants": "SANDBOX;ADDON;DEBUG",
+      "NoWarn": "1701;1702;1591;",
+      "ReleaseMode": "Release",
+      "References": [],
+      "DistinctReferences": []
+    },
+    "Summary": "Cool Icons library usable as a HTML Tag",
+    "Description": "Example:  \u003Ccoolicons Icon=\u0022alarm\u0022\u003E\u003C/coolicons\u003E\n\nAll the names of the icons are directly listed on a dictionary in CoolIcons.razor\n\nAll credits goes to : https://coolicons.cool",
+    "Public": true,
+    "ReplaceTags": "icons tags roleplay darkrp design garry sbox rp web html"
+  }
+}
