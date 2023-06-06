@@ -11,11 +11,11 @@
 </root>
 
 @code {
-    public string Icon { get; set; } = "arrow_circle_down";
+    public string name { get; set; } = "arrow_circle_down";
     public Color Color { get; set; } = Color.White.Hex;
 
     // Credits goes to https://coolicons.cool
-    private Dictionary<string, string> List = new()
+    public static Dictionary<string, string> List = new()
     {
         { "arrow_circle_down", "assets/Arrow/Arrow_Circle_Down.svg" },
         { "arrow_circle_down_left", "assets/Arrow/arrow_Circle_Down_Left.svg" },
@@ -134,6 +134,6 @@
 
     private string GetIconPath()
     {
-        return List[Icon];
+        return List[name];
     }
 }
