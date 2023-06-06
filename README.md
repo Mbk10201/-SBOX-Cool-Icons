@@ -1,13 +1,8 @@
 <h3 align="center">Cool Icons Integration for <a href="[https://asset.party/mbk/cool_icons](https://asset.party/mbk/cool_icons)">S&Box</a></h3>
 
 
-<h1>Official support</h1>
-
-- [x] Websocket
-- [x] Client websocket
-
 <h1>Description</h1>
-This library has been made to manage / announce your server informations to a discord server and vice versa.
+Cool Icons library integration usable as a HTML Tag
 
 <h1>How to install</h1>
 
