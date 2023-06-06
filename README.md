@@ -2,7 +2,7 @@
 
 
 <h1>Description</h1>
-Cool Icons library integration usable as a HTML Tag
+<a href="https://coolicons.cool">Cool Icons</a> library integration usable as a HTML Tag
 
 <h1>How to install</h1>
 
