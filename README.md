@@ -1,4 +1,4 @@
-<h3 align="center">Cool Icons Integration for <a href="[https://asset.party/mbk/cool_icons](https://asset.party/mbk/cool_icons)">S&Box</a></h3>
+<h3 align="center">Cool Icons Integration for <a href="https://asset.party/mbk/cool_icons">S&Box</a></h3>
 
 
 <h1>Description</h1>
