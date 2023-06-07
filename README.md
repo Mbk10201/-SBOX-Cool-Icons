@@ -16,7 +16,7 @@
 > How to use it
  - Add a new ``<coolicons name="alarm"></coolicons>`` Tag
  - Change the ``name="alarm"`` by your choice and you ready to go
- - For the list of the icons click <a href="https://github.com/Mbk10201/-SBOX-Cool-Icons/blob/e6bf90cfbe069024e76783b11e59e5b6b93e7560/CoolIcons.razor#L18C7-L133">here</a>
+ - For the list of the icons click <a href="https://github.com/Mbk10201/-SBOX-Cool-Icons/blob/b8142c491a3091a52b78454675162e9c9234da6a/CoolIcons.razor#L20-L461">here</a>
 
 
 <h1>Copyright</h1>
