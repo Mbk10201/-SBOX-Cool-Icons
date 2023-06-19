@@ -7,12 +7,12 @@
 @namespace CoolIcons
 
 <root>
-    <svg Src=@GetIconPath() Color=@Color></svg>
+    <svg Src=@GetIconPath() Color=@color></svg>
 </root>
 
 @code {
     public string name { get; set; } = "arrow_circle_down";
-    public Color Color { get; set; } = Color.White.Hex;
+    public Color color { get; set; } = Color.White.Hex;
 
     // Credits goes to https://coolicons.cool
     public static Dictionary<string, string> List = new()
