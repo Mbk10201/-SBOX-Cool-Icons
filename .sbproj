@@ -17,7 +17,7 @@
     "ProjectTemplate": null,
     "CsProjName": "",
     "Compiler": {
-      "RootNamespace": "CoolIcons",
+      "RootNamespace": "Mbk.CoolIcons",
       "DefineConstants": "SANDBOX;ADDON;DEBUG",
       "NoWarn": "1701;1702;1591;",
       "ReleaseMode": "Release",
